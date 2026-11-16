@@ -8,9 +8,10 @@ Shipped November 2026. 87 commits over four months.
 
 **Live site: [www.icf.pt](https://www.icf.pt)**
 
-<!-- Add 2–3 screenshots here: homepage, the event page, and the /admin editor.
-     A screenshot of the CMS is worth more than one of the site — it shows the
-     part a visitor never sees. -->
+<img width="1900" height="862" alt="Screenshot 2026-11-16 161348" src="https://github.com/user-attachments/assets/fbd83733-dcdf-4e08-a615-f9ce72a918ac" />
+<img width="1897" height="860" alt="Screenshot 2026-11-16 161414" src="https://github.com/user-attachments/assets/477a80b6-c139-4f5d-8538-10947cdef5ec" />
+
+
 
 ---
 
